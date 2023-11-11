@@ -10,7 +10,7 @@ tags:
   - Développement WEB
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -25,7 +25,7 @@ tags:
 
   <script>
     // Définit le chemin vers ton fichier PDF sur Google Drive
-    var pdfUrl = "TON_LIEN_GOOGLE_DRIVE";
+    var pdfUrl = "https://drive.google.com/file/d/1FFcY38Xi3_wCiTlJYTfiG1idJIS7gycI/view?usp=drive_link";
 
     // Charge le PDF avec PDF.js
     pdfjsLib.getDocument(pdfUrl).then(function(pdfDoc) {
