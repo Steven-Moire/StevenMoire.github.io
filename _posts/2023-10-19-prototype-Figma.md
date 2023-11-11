@@ -9,5 +9,3 @@ tags: Développement WEB
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jbz2f6dbmLk" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://drive.google.com/file/d/1pd1qaiUPj4b-vW9Vj8PD9DAeLnSSn2Fx/preview" width="100%" height="600px"></iframe>
-
-<iframe src="https://drive.google.com/file/d/1cICkmDoNqa9cDwV3qRPPEPtq224K8_kONfirSyYv0pk/preview" width="100%" height="600px"></iframe>
