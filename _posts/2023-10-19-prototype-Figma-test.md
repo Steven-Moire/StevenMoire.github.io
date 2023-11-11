@@ -11,37 +11,4 @@ tags:
 ---
 
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PDF Viewer</title>
-  <!-- Ajoute le lien vers le fichier PDF.js -->
-  <script type="text/javascript" src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
-</head>
-<body>
-  <!-- Crée une balise canvas pour afficher le PDF -->
-  <canvas id="pdf-viewer" style="border:1px solid black;"></canvas>
-
-  <script>
-    // Définit le chemin vers ton fichier PDF sur Google Drive
-    var pdfUrl = "https://drive.google.com/file/d/1FFcY38Xi3_wCiTlJYTfiG1idJIS7gycI/view?usp=drive_link";
-
-    // Charge le PDF avec PDF.js
-    pdfjsLib.getDocument(pdfUrl).then(function(pdfDoc) {
-      // Affiche la première page du PDF
-      pdfDoc.getPage(1).then(function(page) {
-        var canvas = document.getElementById("pdf-viewer");
-        var context = canvas.getContext("2d");
-
-        // Définis la taille du canvas pour correspondre à la taille de la page PDF
-        canvas.height = page.view[3];
-        canvas.width = page.view[2];
-
-        // Dessine la première page du PDF sur le canvas
-        page.render({ canvasContext: context, viewport: page.view });
-      });
-    });
-  </script>
-</body>
-</html>
+<iframe src="https://drive.google.com/file/d/1pd1qaiUPj4b-vW9Vj8PD9DAeLnSSn2Fx/view?usp=sharing" width="100%" height="600px"></iframe>
