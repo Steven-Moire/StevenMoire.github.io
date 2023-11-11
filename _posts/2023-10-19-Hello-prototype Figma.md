@@ -6,4 +6,5 @@ categories: Projet Data Ecole
 tags: Développement WEB
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Jbz2f6dbmLk&ab_channel=StevenBordier" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/Jbz2f6dbmLk" frameborder="0" allowfullscreen></iframe>
+
