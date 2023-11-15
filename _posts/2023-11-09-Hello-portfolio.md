@@ -12,15 +12,26 @@ tags: Présentation
 
 Je suis passionné par le domaine de la Data et spécialisé dans l'analyse de donnée. Mon parcours unique allie créativité et expertise technique.
 
-## Projets récents
+## Projets
 
-### [Projet 1]
-- Description brève du projet
-- Technologies utilisées : Liste des technologies
+### Projet Ecole
+
+#### Projet E-learning Gamifié
+
+- <u><strong>Description du projet</strong></u>:
+
+L'équipe a créé un prototype d'une plateforme d'E-learning gamifié avec un thème spatial, incluant un Avatar évoluant avec les cours. Le projet a été présenté, avec succès, démontrant un solide business model et une stratégie marketing diversifiée.
+
+- <u><strong>Logiciel utilisé:</strong></u>:
+
+-Figma
+
+### Projet personnel
 
 ## Compétences
 
-* Compétence 1
+* Développement Web
+* Prototypage
 
 ## Contact
 
