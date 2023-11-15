@@ -16,22 +16,45 @@ Je suis passionné par le domaine de la Data et spécialisé dans l'analyse de d
 
 ### Projet Ecole
 
-#### Projet E-learning Gamifié
+#### I Plateforme d'E-learning Gamifié
 
-- <u><strong>Description du projet</strong></u>:
+<u><strong>Description du projet</strong></u>
 
 L'équipe a créé un prototype d'une plateforme d'E-learning gamifié avec un thème spatial, incluant un Avatar évoluant avec les cours. Le projet a été présenté, avec succès, démontrant un solide business model et une stratégie marketing diversifiée.
 
-- <u><strong>Logiciel utilisé:</strong></u>:
+<u><strong>Logiciel utilisé:</strong></u>
 
 -Figma
 
-### Projet personnel
-
-## Compétences
+<u><strong>Compétences:</strong></u>
 
 * Développement Web
 * Prototypage
+
+#### II Sujet Data Science
+
+Ma mission a consisté à créer deux présentations sur la data science. La première, "Comprendre le rôle d'un Data Analyst", réalisée avec Google Slide et "Plus AI", intègre un témoignage généré par l'IA "Fliki". La deuxième, "Le rôle du data analyst dans l'analyse de la santé des patients", utilise des outils comme "this person does not exist", Wave.video, et WPimagines pour captiver l'auditoire à travers le storytelling.
+
+<u><strong>Logiciel utilisé:</strong></u>
+
+-Plus AI
+-Fliki
+-this person does not exist
+-Wave.video
+-WPimagines
+
+
+<u><strong>Compétences:</strong></u>
+
+* Création de visuel adapté
+* Communication
+* Intelligence Artificiel
+* Storytelling
+
+
+### Projet personnel
+
+
 
 ## Contact
 
