@@ -18,6 +18,10 @@ J'ai choisi comme sujet "Comprendre le rôle d'un Data Analyst". Pour cette pré
 
 L'ajout de témoignages était requis, et pour cela, j'ai fait appel à une Intelligence Artificielle nommée "Fliki". Fliki transforme le texte en vidéo, contribuant ainsi à une présentation dynamique et informatique.
 
+Voici ce que j'ai présenté lors de ma soutenance:
+
+<iframe src="https://drive.google.com/file/d/1cICkmDoNqa9cDwV3qRPPEPtq224K8_kONfirSyYv0pk/preview" width="100%" height="600px"></iframe>
+
 ## Sujet 2: Le rôle du data analyst dans l'analyse de la santé des patients
 
 J'ai choisi comme sujet "Le rôle du data analyst dans l'analyse de la santé des patients". Cette présentation, réalisée avec Google Slide, adopte une approche de Storytelling.
@@ -27,6 +31,10 @@ Mon objectif était de captiver l'auditoire en utilisant trois nouvelles intelli
 1. **this person does not exist:** Un site générant aléatoirement des visages humains pour illustrer des situations.
 2. **Wave.video:** Une IA facilitant la création de vidéos à partir de texte, idéale pour le storytelling.
 3. **WPimagines:** Une IA transformant le texte en images, ajoutant une dimension visuelle à la narration.
+
+Durant ma deuxième soutenance, j'ai partagé ce qui suit :
+
+<iframe src="https://drive.google.com/file/d/1j6eBOcRuelhb-cwo4Bjjhk_Gf-g0ckNUsIU-pqWCmh0/preview" width="100%" height="600px"></iframe>
 
 # Conclusion
 
