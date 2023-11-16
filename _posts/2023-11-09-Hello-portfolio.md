@@ -52,6 +52,21 @@ Ma mission a consisté à créer deux présentations sur la data science. La pre
 
 ## Projet personnel
 
+### I Script VBA Excel
+
+<u><strong>Description du projet</strong></u>
+
+Automatisation d'une conversion de données textuelles en données numériques via un script VBA dans Excel, répondant efficacement à la problématique initiale de traitement volumineux de données pour une analyse approfondie.
+
+<u><strong>Logiciel utilisé:</strong></u>
+
+-Excel
+
+<u><strong>Compétences:</strong></u>
+
+* VBA
+* Création de document adapté
+* Questionnaire
 
 
 ## Contact
