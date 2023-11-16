@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Script VBA
+title: Script VBA Excel
 date: 2023-11-03 9:00:00 +0300
 categories: [Projet_Data, Personnel]
-tags: [Excel, VBA, Création_de_visuel_adapté, Questionnaire]
+tags: [Excel, VBA, Création_de_document_adapté, Questionnaire]
 ---
 
 # Introduction

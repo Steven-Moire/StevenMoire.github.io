@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sujet en Data Science
-date: 2023-11-10 9:00:00 +0300
+date: 2023-11-07 9:00:00 +0300
 categories: [Projet_Data, Ecole]
 tags: [Création_de_visuel_adapté, Communication, Intelligence_Artificielle, IA, Storytelling]
 ---
