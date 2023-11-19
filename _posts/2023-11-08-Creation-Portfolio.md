@@ -55,7 +55,17 @@ Il faut dans Build and Deployment passer de "Deploy from a branch" à "GitHub Ac
 
 Maintenant que mon site était opérationnel, j'ai rencontré des challenges pour présenter mes projets. Intégrer des vidéos YouTube, afficher des documents, et partager du code VBA ont été des étapes nécessitant des solutions créatives.
 
-<iframe src="https://drive.google.com/file/d/1vsQkXHobpI7t3qgP-T-ciR9NK7w4Z2VS/view?usp=drive_link" width="100%" height="600px"></iframe>
+Pour commencer, traitons de la difficulté de mettre en place les documents, en effet j'ai eu deux problèmes.
+
+Une image du premier problème
+
+Une image du second problème
+
+La solution:
+
+Rentrer le code
+
+
 
 ## Mini-Conclusion
 
