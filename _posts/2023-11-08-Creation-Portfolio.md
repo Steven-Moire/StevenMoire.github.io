@@ -28,11 +28,24 @@ Vous pouvez retrouver ce tutoriel ici:
 
 **Attention** ce tutoriel est anglais mais vous pouvez activer les sous titres (en anglais) si cela va trop rapidement.
 
-## Surmontant les Obstacles
+## Surmonter les Obstacles
 
-Les premières difficultés ont émergé lors de l'ajout d'une image personnelle et de la création de pages. Grâce à des astuces fournies par l'IA, j'ai pu résoudre ces problèmes spécifiques.
+Les premières difficultés ont émergé lors de l'ajout d'une image personnelle et de la création de pages. Grâce à des astuces fournies par l'IA, j'ai pu résoudre ces problèmes spécifiques. En effet les images doivent venir d'un site internet, j'ai donc d'abord utilisé ce site pour mettre mon image:
 
-Le déploiement sur GitHub Pages a également posé des défis, mais une page spécifique dans l'aide de Jekyll a éclairci la situation. La séquence correcte de commits s'est avérée cruciale.
+[imageshack](https://imageshack.com/)
+
+Avant de me rendre compte que je pouvais, comme pour mes autres documents, utiliser google drive.
+
+La création de page a été quand à elle plus compliqué, en effet la vidéo datant de plus d'un an, certaines chose avait déjà évolué. Pour me débloquer j'ai dû faire les choses suivantes:
+
+* Le fichier était sous la forme "nom-du-fichier.md" et non pas sous la forme "YYYY-MM-DD-nom-du-fichier.md"
+* Avoir un dossier "_layouts/post.html" qui n'était pas présent à la base et qui doit contenir ce code:
+
+[créer un lien de téléchargement car le code ne s'affiche pas comme il faut]
+
+Le déploiement sur GitHub Pages a également posé des défis, mais une page spécifique dans l'aide de Jekyll a éclairci la situation. La séquence correcte de commits s'est avérée cruciale. Pour information, pour permettre le déploiement il faut faire la chose suivante:
+
+<iframe src="https://drive.google.com/file/d/14Q04-DRWOEhIj6WvRPNXJzUjsWLGQly-/preview" width="100%" height="400px"></iframe>
 
 ### Présentation des Projets
 
