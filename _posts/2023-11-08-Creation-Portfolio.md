@@ -20,7 +20,7 @@ Jekyll est un générateur de site statique utilisant le langage Ruby, permettan
 
 ## Développement du Site
 
-Jekyll a résolu le problème local, mais l'exportation sur Internet était encore floue. Heureusement, j'ai découvert que GitHub offrait une solution gratuite. Un tutoriel YouTube m'a guidé tout au long du processus, du choix du Template à son exportation sur internet.
+Jekyll a résolu la création du site en local, mais l'exportation sur Internet était encore floue. Heureusement, j'ai découvert que GitHub offrait une solution gratuite. Un tutoriel YouTube m'a guidé tout au long du processus, du choix du Template à son exportation sur internet.
 
 Vous pouvez retrouver ce tutoriel ici:
 
@@ -28,7 +28,7 @@ Vous pouvez retrouver ce tutoriel ici:
 
 **Attention** ce tutoriel est anglais mais vous pouvez activer les sous titres (en anglais) si cela va trop rapidement.
 
-## Surmonter les Obstacles
+## Surmonter les Obstacles lié à la création et l'exportation du portfolio
 
 Les premières difficultés ont émergé lors de l'ajout d'une image personnelle et de la création de pages. Grâce à des astuces fournies par l'IA, j'ai pu résoudre ces problèmes spécifiques. En effet les images doivent venir d'un site internet, j'ai donc d'abord utilisé ce site pour mettre mon image:
 
@@ -47,13 +47,15 @@ Le déploiement sur GitHub Pages a également posé des défis, mais une page sp
 
 <iframe src="https://drive.google.com/file/d/14Q04-DRWOEhIj6WvRPNXJzUjsWLGQly-/preview" width="100%" height="400px"></iframe>
 
+Il faut dans Build and Deployment passer de "Deploy from a branch" à "GitHub Actions", ce qui permettra d'exporter le portfolio sur le web. Une fois cela fait, deux comit apparaîtront et il est normal qu'un seul fonctionne, voici un exemple de ce que l'on peut appercevoir:
+
+<iframe src="https://drive.google.com/file/d/1vsQkXHobpI7t3qgP-T-ciR9NK7w4Z2VS/preview" width="100%" height="300px"></iframe>
+
 ### Présentation des Projets
 
 Maintenant que mon site était opérationnel, j'ai rencontré des challenges pour présenter mes projets. Intégrer des vidéos YouTube, afficher des documents, et partager du code VBA ont été des étapes nécessitant des solutions créatives.
 
-### Mise à Jour Continue
-
-Le processus de mise à jour a également été abordé, avec une note particulière sur la manière dont je maintiens le contenu de mon portfolio au fil du temps.
+<iframe src="https://drive.google.com/file/d/1vsQkXHobpI7t3qgP-T-ciR9NK7w4Z2VS/view?usp=drive_link" width="100%" height="600px"></iframe>
 
 ## Mini-Conclusion
 
