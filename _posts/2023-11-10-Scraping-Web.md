@@ -1,26 +1,24 @@
 ---
 layout: post
-title: Scraping Web
+title: Scraping Web création d'un Clone de Waalaxy
 date: 2023-11-10 9:00:00 +0300
 categories: [Projet_Data, Ecole]
 tags: [HTML, Python, Scraping_WEB, CSV]
 ---
 
-# Scraping Web pour créer un Clone de Waalaxy
-
-## Introduction
+# Introduction
 
 Pour notre deuxième projet, notre professionnel enseignant a décidé de nous plonger dans le monde du scraping web en nous donnant pour mission de créer un clone de Waalaxy. Ce projet revêt une importance particulière, car plus de la moitié d'entre nous recherche activement une alternance.
 
-## Description de Waalaxy
+# Description de Waalaxy
 
 Avant de plonger dans le projet, définissons brièvement ce qu'est Waalaxy.
 
-## Problématique 
+# Problématique 
 
 Comment intégrer efficacement le Scraping Web, le Stockage de Données, et les Requêtes SQL pour créer un système cohérent et utilisable dans un Projet de Clone de Waalaxy ?
 
-## Étapes Principales du Projet
+# Étapes Principales du Projet
 
 Le professionnel nous a guidés à travers les étapes clés du projet, qui sont les suivantes :
 
@@ -37,11 +35,11 @@ Le professionnel nous a guidés à travers les étapes clés du projet, qui sont
 4. **Requêtes SQL pour l'Utilisateur**
    - Développer des requêtes SQL permettant aux utilisateurs d'obtenir les informations souhaitées.
 
-## Début du projet, apprentissage préliminaire
+# Début du projet, apprentissage préliminaire
 
 Au début du projet, une après-midi a été consacrée à la compréhension du scraping web, de l'HTML, de Python et au démarrage du processus de scraping. Nous nous sommes appuyés sur un ensemble de vidéos pour acquérir les connaissances nécessaires, et le professionnel nous a partagé un tutoriel détaillé lors de la deuxième journée de travail.
 
-## Code Python pour le Scraping de JobbyJobba
+# Code Python pour le Scraping de JobbyJobba
 
 Le professionnel nous a guidés à travers un exemple concret en nous fournissant un tutoriel pas à pas pour scraper le site JobbyJobba. Voici un extrait du code Python que j'ai développé :
 
