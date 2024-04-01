@@ -28,7 +28,7 @@ Vous pouvez retrouver ce tutoriel ici:
 
 **Attention** ce tutoriel est anglais mais vous pouvez activer les sous titres (en anglais) si cela va trop rapidement.
 
-## Surmonter les Obstacles lié à la création et l'exportation du portfolio
+## Surmonter les Obstacles Techniques
 
 Les premières difficultés ont émergé lors de l'ajout d'une image personnelle et de la création de pages. Grâce à des astuces fournies par l'IA, j'ai pu résoudre ces problèmes spécifiques. En effet les images doivent venir d'un site internet, j'ai donc d'abord utilisé ce site pour mettre mon image:
 
@@ -51,8 +51,9 @@ Il faut dans Build and Deployment passer de "Deploy from a branch" à "GitHub Ac
 
 <iframe src="https://drive.google.com/file/d/1vsQkXHobpI7t3qgP-T-ciR9NK7w4Z2VS/preview" width="100%" height="300px"></iframe>
 
-### Présentation des Projets
+## Surmonter les Obstacles de Présentation
 
+### Intégration de Documents et d'Images
 Maintenant que mon site est opérationnel, je me suis heurté à des obstacles pour présenter mes projets. L'intégration de vidéos YouTube, l'affichage de documents et le partage de code VBA ont nécessité des solutions créatives.
 
 Pour débuter, abordons la complexité de l'intégration de documents et d'images depuis Google Drive, un processus qui m'a confronté à deux problèmes distincts.
@@ -71,6 +72,7 @@ Deuxième problème :
 
 Dans ce cas, le problème résidait dans l'URL. Lors de la récupération du lien, un suffixe "view?usp=sharing" était ajouté. Il fallait le remplacer par "preview".
 
+### Intégration de Vidéos YouTube
 Passons désormais à l'intégration de vidéos YouTube. Bien que j'aie initialement choisi cette plateforme pour son intégration fluide, j'ai également dû surmonter des difficultés :
 
 <iframe src="https://drive.google.com/file/d/1GSG95ef_E_-IVjVKZZeZ4GGPewnwYsLD/preview" width="100%" height="300px"></iframe>
@@ -79,12 +81,30 @@ Une fois de plus, un problème d'URL s'est posé. La solution impliquait une man
 
 Par exemple, pour la vidéo précédente dont l'URL est "https://www.youtube.com/watch?v=F8iOU1ci19Q&t=310s&ab_channel=TechnoTim", l'ID "F8iOU1ci19" était extrait pour obtenir l'URL finale : "https://www.youtube.com/embed/F8iOU1ci19Q".
 
+### Edit intégration lié aux divers documents
+
+En échangeant avec des collègues de l'école, je me suis rendu compte d'un autre problème :
+
+<iframe src="https://drive.google.com/file/d/1zLJ3LxbHVXLxmBL8cpSG3lV8AaJ5V2EI/preview" width="100%" height="300px"></iframe>
+
+En effet, en utilisant mon compte Google pour importer une image ou un document, lorsque je vérifie si tout fonctionne, je le fais avec ce compte. Cette exception m'a donc échappé.
+
+J'utilise maintenant un autre navigateur où je ne suis pas connecté à mon compte Google. La résolution du problème était assez simple, il suffisait de faire la chose suivante :
+
+<iframe src="https://drive.google.com/file/d/11LsgN76L2bYHCcwx146zlvavf8u-CLU6/preview" width="100%" height="300px"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1YH-XHxAueiqd973zgy5TDV9Z858K5pFd/preview" width="100%" height="300px"></iframe>
+
+Une fois que tous les utilisateurs disposant du lien ont été cochés, même sans avoir donné la permission à un compte Google spécifique, le contenu est accessible.
+
+### Partage de Code VBA
 En ce qui concerne l'intégration du code sur le site, les balises de code standard ne fonctionnaient pas avec VBA. J'ai donc adopté une solution ingénieuse consistant à fournir un bouton de téléchargement direct du fichier. Pour cela, j'ai ajouté deux arguments à l'URL d'origine : "uc?export=download" et "id=" suivi de l'ID du fichier. Cela permet de rendre le code facilement accessible à tous, même en l'absence de backticks.
 
 En mettant en pratique ces solutions, vous serez en mesure de résoudre efficacement les défis d'intégration de documents, de vidéos et de code sur votre site web.
+
 
 ## Mini-Conclusion
 
 En conclusion, ce projet de portfolio est une aventure en cours. Les défis rencontrés ne sont pas seulement des obstacles, mais des opportunités d'apprentissage continu. Mon portfolio évoluera avec moi, reflétant ma croissance dans le domaine passionnant de la Data Science.
 
-*Dernière mise à jour - 13 mars 2024*
+*Dernière mise à jour - 01 avril 2024*
