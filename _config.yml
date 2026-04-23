@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-PGQSZBFZZ4
 
 # Prefer color scheme setting.
 #
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://imagizer.imageshack.com/img923/180/7dCRFi.png
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true

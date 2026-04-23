@@ -20,3 +20,7 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Local notes
+todo.md
+portfolio_brief_claude_code.docx
