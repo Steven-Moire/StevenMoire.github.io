@@ -3,7 +3,7 @@ layout: post
 title: Création de mon portfolio
 date: 2023-11-08 9:00:00 +0300
 categories: [Projet_Data, Personnel]
-tags: [Jekyll, Template, Developpement_WEB, IA, Intelligence_Artificielle, HTML, Git, Github, Github_Desktop, Terminal]
+tags: [Jekyll, HTML, Git, GitHub, Développement-Web, IA, Débrouillardise]
 ---
 
 Dans ce projet, je partage mon voyage à travers la création de mon site web personnel pour présenter mes projets dans le domaine de la Data Science. Je vais détailler comment j'ai surmonté les défis, depuis la conception locale de mon site jusqu'à son déploiement sur Internet.

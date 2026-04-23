@@ -3,7 +3,7 @@ layout: post
 title: Développer une plateforme d’E-learning gamifiée
 date: 2023-10-19 9:00:00 +0300
 categories: [Projet_Data, Ecole]
-tags: [Developpement_WEB, Prototypage]
+tags: [Développement-Web, Figma, Prototypage, Travail-en-équipe, Pitch]
 ---
 
 # Introduction

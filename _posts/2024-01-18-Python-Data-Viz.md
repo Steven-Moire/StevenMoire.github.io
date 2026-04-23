@@ -3,7 +3,7 @@ layout: post
 title: Python Analyse de données
 date: 2024-01-18 9:00:00 +0300
 categories: [Projet_Data, Ecole]
-tags: [Python, Data Visualisation, setuptools, pandas, plotly, matplotlib, dash, CSS, Nettoyage de données, Exploration de données]
+tags: [Python, Pandas, Plotly, Matplotlib, Dash, Data-Viz, Analyse-de-données, Vulgarisation]
 ---
 
 # Introduction

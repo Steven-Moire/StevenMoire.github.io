@@ -3,7 +3,7 @@ layout: post
 title: Scraping Web création d'un Clone de Waalaxy
 date: 2023-11-10 9:00:00 +0300
 categories: [Projet_Data, Ecole]
-tags: [HTML, Python, Scraping_WEB, CSV]
+tags: [Python, HTML, Scraping, CSV, Débrouillardise]
 ---
 
 # Introduction
